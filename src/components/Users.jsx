@@ -90,7 +90,7 @@ const Header = () => {
                                                 }
                                                 {item.Chats[item.Chats.length - 1].fileName &&
                                                     <>
-                                                        <FaFile size={13} /> {`File`}
+                                                        <FaFile size={13} className="fileIcon" /> {`File`}
                                                     </>
                                                 }
                                             </p>

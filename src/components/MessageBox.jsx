@@ -125,7 +125,7 @@ const MessageBox = () => {
                         </div>
                     }
                     <FaPlus
-                        size={15}
+                        size={12}
                         className="plusbtn"
                         onClick={handlePlusClick}
                     />
@@ -144,7 +144,7 @@ const MessageBox = () => {
                         onChange={(e) => setMessage(e.target.value)}
                     />
                     <IoIosSend
-                        size={20}
+                        size={22}
                         className="sendbtn"
                         onClick={handleClick}
                     />
