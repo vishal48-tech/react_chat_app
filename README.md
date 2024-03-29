@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a web application that allows user to send messages and files to Api, and fetch Datas from Api.
+This is a chat app for sending text messages and files. Sadly, chatting is only one way, that means there will be no reply of your message. You can upgrade the logic to get reply from other user. There are total 10 different chats. I have used free api, so you can't upload file greater than 100kb.
 
 ## Installation
 
